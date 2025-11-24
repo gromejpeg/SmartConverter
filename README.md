@@ -10,7 +10,7 @@ Designed with a bold, futuristic UI, it features "Aurora" mesh gradients, hyper-
 
  - Design Philosophy
 
-This project was built to push the boundaries of SwiftUI, aiming for the title of "Most Beautiful App of 2025."
+This project was built to push the boundaries of SwiftUI
 
 Aurora Backgrounds: Deep, living mesh gradients that shift subtly behind the content.
 
